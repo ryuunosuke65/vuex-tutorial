@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Login</h1>
+    <h1>Tohka is Love</h1>
     <form @submit="goToAbout">
       <div>
         <label for="email">email</label>
